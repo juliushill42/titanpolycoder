@@ -1,0 +1,1 @@
+{"type":"object","required":["pattern_id","parent_id","domain","function","runtime","code_hash"],"properties":{"pattern_id":{"type":"string"},"parent_id":{"type":["string","null"]},"domain":{"type":"string"},"function":{"type":"string"},"runtime":{"type":"string"},"code_hash":{"type":"string"},"rules":{"type":"object"},"key_fingerprint":{"type":"string"}}}
